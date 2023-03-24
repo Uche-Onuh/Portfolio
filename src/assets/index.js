@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import site from "./site.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -32,6 +33,10 @@ import great from "./great.png";
 import gpt3 from "./gpt3.png";
 import bank from "./bank.png";
 
+import funmi from "./funmi.webp";
+import basil from "./basil.jpg";
+import ogechi from "./oge.jpg";
+
 export {
   logo,
   backend,
@@ -39,6 +44,7 @@ export {
   mobile,
   web,
   github,
+  site,
   menu,
   close,
   css,
@@ -63,4 +69,7 @@ export {
   gpt3,
   luxe,
   midtown,
+  funmi,
+  basil,
+  ogechi,
 };
