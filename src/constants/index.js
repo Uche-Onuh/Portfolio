@@ -155,8 +155,8 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about self improvement like Rick does.",
-    name: "Basil Alkabeli",
+      "I've never met a web developer who truly cares about self improvement like Uche does.",
+    name: "Basil Aikabeli",
     designation: "Director",
     company: "Midtown Tech Hub",
     image: basil,
@@ -241,7 +241,7 @@ const projects = [
   {
     name: "Gpt3",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Landing page excercise for Gpt-3 AI bots. Created with React Js and Vanilla Css.",
     tags: [
       {
         name: "React.Js",
@@ -263,14 +263,14 @@ const projects = [
   {
     name: "HooBank",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Landing page excercise for a Bank. Created with React Js Tailwind Css and ViteJs.",
     tags: [
       {
         name: "React.Js",
         color: "blue-text-gradient",
       },
       {
-        name: "React-Icons",
+        name: "Vite.Js",
         color: "green-text-gradient",
       },
       {
@@ -285,7 +285,7 @@ const projects = [
   {
     name: "Osimhe Ventures",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A  website for a food produce company which helps them showcase their products online .",
     tags: [
       {
         name: "Html5",
@@ -307,7 +307,7 @@ const projects = [
   {
     name: "By Melaku",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A website for a make-up artistry and event planing business where clients can book appointments and also see the artist's work portfoliio.",
     tags: [
       {
         name: "Html5",
@@ -329,7 +329,7 @@ const projects = [
   {
     name: "Great Oak",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A nwebsite for a metal fabrication company where they can showcase recently concluded projects and get connected to prospective clients.",
     tags: [
       {
         name: "Html5",
