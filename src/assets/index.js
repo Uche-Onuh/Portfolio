@@ -29,6 +29,7 @@ import oge from "./oge.png";
 import mytube from "./Mytube.png";
 import osi from "./osi.png";
 import mel from "./mel.png";
+import admin from "./admin.png";
 import great from "./great.png";
 import gpt3 from "./gpt3.png";
 import bank from "./bank.png";
@@ -62,6 +63,7 @@ export {
   luxeweb,
   oge,
   mytube,
+  admin,
   osi,
   mel,
   great,

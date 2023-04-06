@@ -1,5 +1,4 @@
 import {
-  mobile,
   backend,
   creator,
   web,
@@ -23,6 +22,7 @@ import {
   osi,
   mel,
   great,
+  admin,
   gpt3,
   bank,
   funmi,
@@ -283,9 +283,31 @@ const projects = [
     web_link: "https://soft-mermaid-ac7d10.netlify.app/",
   },
   {
+    name: "Admin Panel",
+    description:
+      "An Admin Panel project. Created with React Js, Material UI, Nivo Charts and Full Calendar",
+    tags: [
+      {
+        name: "React.Js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Material UI",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Nivo Charts",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: admin,
+    source_code_link: "https://github.com/Uche-Onuh/React-Admin-Panel",
+    web_link: "https://capable-shortbread-5ab7f9.netlify.app/",
+  },
+  {
     name: "Osimhe Ventures",
     description:
-      "A  website for a food produce company which helps them showcase their products online .",
+      "A  website for a food produce company which helps them showcase their products online and allow clients cntact them to make orders.",
     tags: [
       {
         name: "Html5",
