@@ -15,6 +15,7 @@ import {
   oge,
   threejs,
   luxe,
+  logo,
   midtown,
   material,
   rest,
@@ -116,6 +117,17 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "FreeLance",
+    company_name: "Chase Media",
+    icon: logo,
+    iconBg: "#383E56",
+    date: "April 2019 - Present",
+    points: [
+      "Worked on large production ready projects that make using Html, CSS and Javascript",
+      "Built both e-commerce and static Websites for serveral clients with technologies likeReactJs, NodeJs, Express, PHP, Firebase and MySQL",
+    ],
+  },
   {
     title: "IT Assistant",
     company_name: "Luxe Dental",
