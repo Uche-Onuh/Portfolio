@@ -126,6 +126,7 @@ const experiences = [
     points: [
       "Worked on large production ready projects that make using Html, CSS and Javascript",
       "Built both e-commerce and static Websites for serveral clients with technologies likeReactJs, NodeJs, Express, PHP, Firebase and MySQL",
+      "Site Maintenance and Updates",
     ],
   },
   {
