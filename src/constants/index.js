@@ -20,12 +20,12 @@ import {
   material,
   rest,
   mytube,
+  moniemove,
   osi,
   mel,
   great,
   admin,
   gpt3,
-  bank,
   funmi,
   basil,
   ogechi,
@@ -186,6 +186,28 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Moniemove",
+    description:
+      "An efficient online platform that seamlessly connects clients seeking artisan services with skilled professionals. Prioritize UX, robust search algorithms, secure payment processing, and contract management.",
+    tags: [
+      {
+        name: "React.JS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Rest API",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Material UI",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: moniemove,
+    source_code_link: "https://github.com/Midtown-Tech-Hub/MonieMove",
+    web_link: "https://www.moniemove.com/",
+  },
+  {
     name: "Luxe Dental",
     description:
       "A website for a dental clinic in which the clinic can showcase the services they provide and clients can book appointments online. Also provides a blog space where the dentist can post dental hygene tips",
@@ -273,28 +295,28 @@ const projects = [
     source_code_link: "https://github.com/Uche-Onuh/gpt-3",
     web_link: "https://guileless-speculoos-93ba8e.netlify.app/",
   },
-  {
-    name: "HooBank",
-    description:
-      "A Landing page excercise for a Bank. Created with React Js Tailwind Css and ViteJs.",
-    tags: [
-      {
-        name: "React.Js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Vite.Js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "TailWind Css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: bank,
-    source_code_link: "https://github.com/Uche-Onuh/Bank-app",
-    web_link: "https://soft-mermaid-ac7d10.netlify.app/",
-  },
+  // {
+  //   name: "HooBank",
+  //   description:
+  //     "A Landing page excercise for a Bank. Created with React Js Tailwind Css and ViteJs.",
+  //   tags: [
+  //     {
+  //       name: "React.Js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Vite.Js",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "TailWind Css",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: bank,
+  //   source_code_link: "https://github.com/Uche-Onuh/Bank-app",
+  //   web_link: "https://soft-mermaid-ac7d10.netlify.app/",
+  // },
   {
     name: "Admin Panel",
     description:

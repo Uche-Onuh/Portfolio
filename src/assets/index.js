@@ -32,7 +32,7 @@ import mel from "./mel.png";
 import admin from "./admin.png";
 import great from "./great.png";
 import gpt3 from "./gpt3.png";
-import bank from "./bank.png";
+import moniemove from "./moniemove.png";
 
 import funmi from "./funmi.webp";
 import basil from "./basil.jpg";
@@ -67,7 +67,7 @@ export {
   osi,
   mel,
   great,
-  bank,
+  moniemove,
   gpt3,
   luxe,
   midtown,
